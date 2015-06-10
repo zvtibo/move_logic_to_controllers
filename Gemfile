@@ -7,11 +7,12 @@ gem 'rails', '3.2.6'
 
 gem 'sqlite3'
 
-gem 'ffaker'
+gem 'ffaker', '1.16.0'
+gem 'sass', '3.1.10'
 
 
 gem 'thin'
-
+gem 'test-unit'
 gem 'quiet_assets', :group => :development
 
 
